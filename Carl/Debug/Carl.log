@@ -1,0 +1,14 @@
+﻿  Carl.cpp
+C:\Users\Joanna\source\repos\Carl\Carl.cpp(66,77): warning C4244: "=": konwersja z "_Rep" do "int", możliwa utrata danych
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Joanna\source\repos\Carl\Carl.cpp(34,10): warning C4101: "tab": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Joanna\source\repos\Carl\Carl.cpp(33,6): warning C4101: "temp": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Joanna\source\repos\Carl\Carl.cpp(32,6): warning C4101: "n": lokalna zmienna, do której nie istnieje odwołanie
+  Carlier.cpp
+  Generowanie kodu...
+C:\Users\Joanna\source\repos\Carl\Carlier.cpp(35): warning C4715: "CompareQ::operator()”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Joanna\source\repos\Carl\Carlier.cpp(21): warning C4715: "CompareR::operator()”: niewszystkie ścieżki kodu zwracają wartość
+  Carl.vcxproj -> C:\Users\Joanna\source\repos\Carl\Debug\Carl.exe

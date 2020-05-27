@@ -1,0 +1,2 @@
+C:\Users\Joanna\source\repos\Carl\x64\Debug\Carl.exe
+C:\Users\Joanna\source\repos\Carl\x64\Debug\Carl.pdb
